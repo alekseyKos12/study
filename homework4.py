@@ -13,7 +13,7 @@ my_string = (input("Ну хорошо , придумай пароль состо
 print(my_string.replace(' ', ''))
 print('А пробелы ??? , я за тебя ставить буду ' '???')
 name = (input('Тебя как звать граммотей ? '))
-print(name[1])
+print(name[0])
 print('нет такого имени ! , попробуй еще раз')
 name = (input("введите Ваше имя "))
 print(name[-1])
